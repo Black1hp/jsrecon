@@ -1,6 +1,4 @@
-Sure! Here's your tool documentation rewritten in clean and professional **Markdown** format:
 
----
 
 # **JSRecon v1.0 — JavaScript Reconnaissance & Analysis Toolkit**
 
